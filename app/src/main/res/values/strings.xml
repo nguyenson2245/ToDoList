@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ToDoList</string>
+    <string name="home">Home</string>
+    <string name="thongke">Thống Kê</string>
+    <string name="khoanthu">Khoản Thu</string>
+    <string name="khoanchi">Khoản Chi</string>
+    <string name="dongluc">Động Lực</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="events">Events</string>
+    <string name="search">Search</string>
+    <string name="settings">Settings</string>
+    <string name="activities">Activities</string>
+
+    <string name="open_navigationdr">Open Navigation Drawer</string>
+    <string name="close_navigationdr">Close Navigation Drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

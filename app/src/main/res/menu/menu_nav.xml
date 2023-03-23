@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home"
+            android:title="@string/home"
+            android:icon="@drawable/nha"
+            />
+        <item
+            android:id="@+id/nav_thongke"
+            android:title="@string/thongke"
+            android:icon="@drawable/tim"
+            />
+
+        <item
+            android:id="@+id/nav_khoanthu"
+            android:title="@string/khoanthu"
+            android:icon="@drawable/ic_cash"
+            />
+
+        <item
+            android:id="@+id/nav_khoanchi"
+            android:title="@string/khoanchi"
+            android:icon="@drawable/ic_coin"
+            />
+
+        <item
+            android:id="@+id/nav_dongluc"
+            android:title="@string/dongluc"
+            android:icon="@drawable/ic_date"
+            />
+    </group>
+
+</menu>
